@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   simple-dsl-web:
   - apiVersion: v2
-    appVersion: 2.0.0
-    created: "2020-07-18T13:26:23.441402428+07:00"
+    appVersion: 1.0.0
+    created: "2020-07-18T13:35:49.40719629+07:00"
     description: A simple dsl web chart for Kubernetes
-    digest: cef672c13afe2db5950dcd397d4bf922d9814b97c5c4ec6424a3d02b4b8c5dea
+    digest: 5033686bed1ea06eac2f2517fd5a3d922f615f29cdea9822e988d2bcaf2eb07d
     name: simple-dsl-web
     type: application
     urls:
     - https://nzjourney.github.io/chart/simple-dsl-web-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-18T13:26:23.440834501+07:00"
+generated: "2020-07-18T13:35:49.406330209+07:00"
